@@ -1,4 +1,4 @@
-# Accessible Novo Nordisk Graph Embedding Library (aNNGEL)
+# Accessible Novo Nordisk Graph Embedding Library (ANNGEL)
 
 ## Table of Contents
 
