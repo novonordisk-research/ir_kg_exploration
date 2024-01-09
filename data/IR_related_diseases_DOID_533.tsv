@@ -1,0 +1,533 @@
+Alstrom syndrome	http://purl.obolibrary.org/obo/DOID_0050473
+Alzheimer's disease	http://purl.obolibrary.org/obo/DOID_10652
+Bardet-Biedl syndrome	http://purl.obolibrary.org/obo/DOID_1935
+Barrett's esophagus	http://purl.obolibrary.org/obo/DOID_9206
+Bloom syndrome	http://purl.obolibrary.org/obo/DOID_2717
+COVID-19	http://purl.obolibrary.org/obo/DOID_0080600
+Chagas disease	http://purl.obolibrary.org/obo/DOID_12140
+Conn's syndrome	http://purl.obolibrary.org/obo/DOID_12028
+Cor pulmonale	http://purl.obolibrary.org/obo/DOID_8515
+Coronavirus infectious disease	http://purl.obolibrary.org/obo/DOID_0080599
+Crohn's disease	http://purl.obolibrary.org/obo/DOID_8778
+Dent disease	http://purl.obolibrary.org/obo/DOID_0050699
+Donohue syndrome	http://purl.obolibrary.org/obo/DOID_0050470
+Down syndrome	http://purl.obolibrary.org/obo/DOID_14250
+Fanconi anemia	http://purl.obolibrary.org/obo/DOID_13636
+Gaucher's disease	http://purl.obolibrary.org/obo/DOID_1926
+Gaucher's disease type I	http://purl.obolibrary.org/obo/DOID_0110957
+Gitelman syndrome	http://purl.obolibrary.org/obo/DOID_0050450
+HELLP syndrome	http://purl.obolibrary.org/obo/DOID_13133
+Henoch-Schoenlein purpura	http://purl.obolibrary.org/obo/DOID_11123
+Human papillomavirus infectious disease	http://purl.obolibrary.org/obo/DOID_11166
+Huntington's disease	http://purl.obolibrary.org/obo/DOID_12858
+IgA glomerulonephritis	http://purl.obolibrary.org/obo/DOID_2986
+Lesch-Nyhan syndrome	http://purl.obolibrary.org/obo/DOID_1919
+Ludwig's angina	http://purl.obolibrary.org/obo/DOID_4558
+Muckle-Wells syndrome	http://purl.obolibrary.org/obo/DOID_0050854
+Niemann-Pick disease	http://purl.obolibrary.org/obo/DOID_14504
+Opitz GBBB syndrome	http://purl.obolibrary.org/obo/DOID_0080697
+Parkinson's disease	http://purl.obolibrary.org/obo/DOID_14330
+Prieto syndrome	http://purl.obolibrary.org/obo/DOID_0060805
+SHORT syndrome	http://purl.obolibrary.org/obo/DOID_0111454
+Scheuermann's disease	http://purl.obolibrary.org/obo/DOID_13300
+Sjogren's syndrome	http://purl.obolibrary.org/obo/DOID_12894
+Turner syndrome	http://purl.obolibrary.org/obo/DOID_3491
+Van der Woude syndrome	http://purl.obolibrary.org/obo/DOID_0060239
+Werner syndrome	http://purl.obolibrary.org/obo/DOID_5688
+abdominal obesity-metabolic syndrome	http://purl.obolibrary.org/obo/DOID_0060611
+abdominal obesity-metabolic syndrome 1	http://purl.obolibrary.org/obo/DOID_14221
+abnormality of glucagon secretion	http://purl.obolibrary.org/obo/DOID_14427
+absence epilepsy	http://purl.obolibrary.org/obo/DOID_0070309
+acanthosis nigricans	http://purl.obolibrary.org/obo/DOID_3138
+acne	http://purl.obolibrary.org/obo/DOID_6543
+acquired immunodeficiency syndrome	http://purl.obolibrary.org/obo/DOID_635
+acquired metabolic disease	http://purl.obolibrary.org/obo/DOID_0060158
+acquired thrombocytopenia	http://purl.obolibrary.org/obo/DOID_11126
+acromegaly	http://purl.obolibrary.org/obo/DOID_2449
+acute cholangitis	http://purl.obolibrary.org/obo/DOID_14271
+acute intermittent porphyria	http://purl.obolibrary.org/obo/DOID_3890
+acute kidney failure	http://purl.obolibrary.org/obo/DOID_3021
+acute myocarditis	http://purl.obolibrary.org/obo/DOID_3951
+acute pancreatitis	http://purl.obolibrary.org/obo/DOID_2913
+adenoid hypertrophy	http://purl.obolibrary.org/obo/DOID_0060311
+adrenal gland hyperfunction	http://purl.obolibrary.org/obo/DOID_3947
+adrenoleukodystrophy	http://purl.obolibrary.org/obo/DOID_10588
+adult respiratory distress syndrome	http://purl.obolibrary.org/obo/DOID_11394
+age related macular degeneration	http://purl.obolibrary.org/obo/DOID_10871
+aggressive periodontitis	http://purl.obolibrary.org/obo/DOID_1474
+alcoholic liver cirrhosis	http://purl.obolibrary.org/obo/DOID_14018
+allergic asthma	http://purl.obolibrary.org/obo/DOID_9415
+allergic disease	http://purl.obolibrary.org/obo/DOID_1205
+alopecia	http://purl.obolibrary.org/obo/DOID_987
+alopecia areata	http://purl.obolibrary.org/obo/DOID_986
+amino acid metabolic disorder	http://purl.obolibrary.org/obo/DOID_9252
+amyloidosis	http://purl.obolibrary.org/obo/DOID_9120
+amyotrophic lateral sclerosis	http://purl.obolibrary.org/obo/DOID_332
+androgenic alopecia	http://purl.obolibrary.org/obo/DOID_0050801
+anemia	http://purl.obolibrary.org/obo/DOID_2355
+anhidrosis	http://purl.obolibrary.org/obo/DOID_11156
+ankylosing spondylitis	http://purl.obolibrary.org/obo/DOID_7147
+anorexia nervosa	http://purl.obolibrary.org/obo/DOID_8689
+anovulation	http://purl.obolibrary.org/obo/DOID_3781
+aortic aneurysm	http://purl.obolibrary.org/obo/DOID_3627
+aortic atherosclerosis	http://purl.obolibrary.org/obo/DOID_10230
+aortic disease	http://purl.obolibrary.org/obo/DOID_520
+aortic dissection	http://purl.obolibrary.org/obo/DOID_0080685
+aortic valve stenosis	http://purl.obolibrary.org/obo/DOID_1712
+aromatase excess syndrome	http://purl.obolibrary.org/obo/DOID_0090122
+arrhythmogenic right ventricular cardiomyopathy	http://purl.obolibrary.org/obo/DOID_0050431
+arteriolosclerosis	http://purl.obolibrary.org/obo/DOID_5162
+arteriosclerosis	http://purl.obolibrary.org/obo/DOID_2349
+arteriosclerotic cardiovascular disease	http://purl.obolibrary.org/obo/DOID_2348
+arteritic anterior ischemic optic neuropathy	http://purl.obolibrary.org/obo/DOID_0050863
+arthritis	http://purl.obolibrary.org/obo/DOID_848
+arthropathy	http://purl.obolibrary.org/obo/DOID_381
+aspiration pneumonia	http://purl.obolibrary.org/obo/DOID_0050152
+asthma	http://purl.obolibrary.org/obo/DOID_2841
+atherosclerosis	http://purl.obolibrary.org/obo/DOID_1936
+atrial fibrillation	http://purl.obolibrary.org/obo/DOID_0060224
+atrophy of testis	http://purl.obolibrary.org/obo/DOID_11994
+autoimmune disease	http://purl.obolibrary.org/obo/DOID_417
+autoimmune thrombocytopenic purpura	http://purl.obolibrary.org/obo/DOID_8924
+autonomic nervous system disease	http://purl.obolibrary.org/obo/DOID_11465
+autonomic neuropathy	http://purl.obolibrary.org/obo/DOID_11504
+autosomal dominant craniometaphyseal dysplasia	http://purl.obolibrary.org/obo/DOID_0080801
+bacterial sepsis	http://purl.obolibrary.org/obo/DOID_0040085
+bilateral optic nerve hypoplasia	http://purl.obolibrary.org/obo/DOID_0111531
+bile reflux	http://purl.obolibrary.org/obo/DOID_12237
+blindness	http://purl.obolibrary.org/obo/DOID_1432
+blood coagulation disease	http://purl.obolibrary.org/obo/DOID_1247
+blood platelet disease	http://purl.obolibrary.org/obo/DOID_2218
+bone disease	http://purl.obolibrary.org/obo/DOID_0080001
+brain infarction	http://purl.obolibrary.org/obo/DOID_3454
+brain ischemia	http://purl.obolibrary.org/obo/DOID_2316
+bronchial disease	http://purl.obolibrary.org/obo/DOID_1176
+bullous pemphigoid	http://purl.obolibrary.org/obo/DOID_8506
+carbohydrate metabolic disorder	http://purl.obolibrary.org/obo/DOID_2978
+cardiac arrest	http://purl.obolibrary.org/obo/DOID_0060319
+cardiomyopathy	http://purl.obolibrary.org/obo/DOID_0050700
+cardiovascular system disease	http://purl.obolibrary.org/obo/DOID_1287
+carotid artery disease	http://purl.obolibrary.org/obo/DOID_3407
+carotid artery occlusion	http://purl.obolibrary.org/obo/DOID_807
+carotid stenosis	http://purl.obolibrary.org/obo/DOID_13001
+carpal tunnel syndrome	http://purl.obolibrary.org/obo/DOID_12169
+cascade stomach	http://purl.obolibrary.org/obo/DOID_12234
+cataract	http://purl.obolibrary.org/obo/DOID_83
+central nervous system disease	http://purl.obolibrary.org/obo/DOID_331
+central precocious puberty	http://purl.obolibrary.org/obo/DOID_0112308
+central retinal artery occlusion	http://purl.obolibrary.org/obo/DOID_13098
+cerebral arteritis	http://purl.obolibrary.org/obo/DOID_11390
+cerebral atherosclerosis	http://purl.obolibrary.org/obo/DOID_12720
+cerebral infarction	http://purl.obolibrary.org/obo/DOID_3526
+cerebral palsy	http://purl.obolibrary.org/obo/DOID_1969
+cerebrovascular disease	http://purl.obolibrary.org/obo/DOID_6713
+childhood type dermatomyositis	http://purl.obolibrary.org/obo/DOID_14203
+cholecystolithiasis	http://purl.obolibrary.org/obo/DOID_11151
+choledocholithiasis	http://purl.obolibrary.org/obo/DOID_11755
+cholelithiasis	http://purl.obolibrary.org/obo/DOID_10211
+cholestasis	http://purl.obolibrary.org/obo/DOID_13580
+chronic asthma	http://purl.obolibrary.org/obo/DOID_0080809
+chronic fatigue syndrome	http://purl.obolibrary.org/obo/DOID_8544
+chronic kidney disease	http://purl.obolibrary.org/obo/DOID_784
+chronic laryngitis	http://purl.obolibrary.org/obo/DOID_11797
+chronic obstructive pulmonary disease	http://purl.obolibrary.org/obo/DOID_3083
+chronic rapidly progressive glomerulonephritis	http://purl.obolibrary.org/obo/DOID_11036
+chronic spontaneous urticaria	http://purl.obolibrary.org/obo/DOID_0080749
+chronic urticaria	http://purl.obolibrary.org/obo/DOID_0080747
+colitis	http://purl.obolibrary.org/obo/DOID_0060180
+collagen disease	http://purl.obolibrary.org/obo/DOID_854
+complement deficiency	http://purl.obolibrary.org/obo/DOID_626
+complete generalized lipodystrophy	http://purl.obolibrary.org/obo/DOID_0080298
+cone-rod dystrophy	http://purl.obolibrary.org/obo/DOID_0050572
+congenital lactase deficiency	http://purl.obolibrary.org/obo/DOID_0111646
+congenital leptin deficiency	http://purl.obolibrary.org/obo/DOID_0111334
+congenital structural myopathy	http://purl.obolibrary.org/obo/DOID_422
+congestive heart failure	http://purl.obolibrary.org/obo/DOID_6000
+connective tissue disease	http://purl.obolibrary.org/obo/DOID_65
+corneal dystrophy	http://purl.obolibrary.org/obo/DOID_2566
+coronary artery disease	http://purl.obolibrary.org/obo/DOID_3393
+coronary stenosis	http://purl.obolibrary.org/obo/DOID_4248
+coronary thrombosis	http://purl.obolibrary.org/obo/DOID_11847
+cortical senile cataract	http://purl.obolibrary.org/obo/DOID_13574
+cranial nerve palsy	http://purl.obolibrary.org/obo/DOID_3817
+cystic fibrosis	http://purl.obolibrary.org/obo/DOID_1485
+dental caries	http://purl.obolibrary.org/obo/DOID_216
+dermatitis	http://purl.obolibrary.org/obo/DOID_2723
+dermatomyositis	http://purl.obolibrary.org/obo/DOID_10223
+diabetes mellitus	http://purl.obolibrary.org/obo/DOID_9351
+diabetic angiopathy	http://purl.obolibrary.org/obo/DOID_11713
+diabetic cataract	http://purl.obolibrary.org/obo/DOID_13328
+diabetic encephalopathy	http://purl.obolibrary.org/obo/DOID_0050850
+diabetic ketoacidosis	http://purl.obolibrary.org/obo/DOID_1837
+diabetic neuropathy	http://purl.obolibrary.org/obo/DOID_9743
+diabetic polyneuropathy	http://purl.obolibrary.org/obo/DOID_12785
+diabetic retinopathy	http://purl.obolibrary.org/obo/DOID_8947
+diastolic heart failure	http://purl.obolibrary.org/obo/DOID_9775
+diffuse idiopathic skeletal hyperostosis	http://purl.obolibrary.org/obo/DOID_6652
+dilated cardiomyopathy	http://purl.obolibrary.org/obo/DOID_12930
+discoid lupus erythematosus of eyelid	http://purl.obolibrary.org/obo/DOID_9076
+discrete subaortic stenosis	http://purl.obolibrary.org/obo/DOID_5804
+disseminated intravascular coagulation	http://purl.obolibrary.org/obo/DOID_11247
+diverticulitis of colon	http://purl.obolibrary.org/obo/DOID_13254
+drug-induced hearing loss	http://purl.obolibrary.org/obo/DOID_0070310
+dry eye syndrome	http://purl.obolibrary.org/obo/DOID_10140
+eclampsia	http://purl.obolibrary.org/obo/DOID_13593
+ectopic Cushing syndrome	http://purl.obolibrary.org/obo/DOID_0060890
+encephalitis	http://purl.obolibrary.org/obo/DOID_9588
+end stage renal disease	http://purl.obolibrary.org/obo/DOID_783
+endocrine pancreas disease	http://purl.obolibrary.org/obo/DOID_1428
+endocrine system disease	http://purl.obolibrary.org/obo/DOID_28
+endometrial disease	http://purl.obolibrary.org/obo/DOID_1005
+endometrial hyperplasia	http://purl.obolibrary.org/obo/DOID_0080365
+endometriosis	http://purl.obolibrary.org/obo/DOID_289
+endometritis	http://purl.obolibrary.org/obo/DOID_1002
+enthesopathy	http://purl.obolibrary.org/obo/DOID_204
+epidural abscess	http://purl.obolibrary.org/obo/DOID_11387
+epilepsy	http://purl.obolibrary.org/obo/DOID_1826
+esophageal varix	http://purl.obolibrary.org/obo/DOID_112
+esophagitis	http://purl.obolibrary.org/obo/DOID_11963
+essential hypertension	http://purl.obolibrary.org/obo/DOID_10825
+euthyroid sick syndrome	http://purl.obolibrary.org/obo/DOID_2856
+exocrine pancreatic insufficiency	http://purl.obolibrary.org/obo/DOID_13316
+eye disease	http://purl.obolibrary.org/obo/DOID_5614
+familial chylomicronemia syndrome	http://purl.obolibrary.org/obo/DOID_0111417
+familial combined hyperlipidemia	http://purl.obolibrary.org/obo/DOID_13809
+familial hypercholesterolemia	http://purl.obolibrary.org/obo/DOID_13810
+familial hyperlipidemia	http://purl.obolibrary.org/obo/DOID_1168
+familial lipoprotein lipase deficiency	http://purl.obolibrary.org/obo/DOID_14118
+familial partial lipodystrophy type 3	http://purl.obolibrary.org/obo/DOID_0070204
+fatty liver disease	http://purl.obolibrary.org/obo/DOID_9452
+female reproductive system disease	http://purl.obolibrary.org/obo/DOID_229
+fibromyalgia	http://purl.obolibrary.org/obo/DOID_631
+food allergy	http://purl.obolibrary.org/obo/DOID_3044
+gallbladder disease	http://purl.obolibrary.org/obo/DOID_0060262
+gas gangrene	http://purl.obolibrary.org/obo/DOID_9159
+gastroesophageal reflux disease	http://purl.obolibrary.org/obo/DOID_8534
+gastrointestinal system disease	http://purl.obolibrary.org/obo/DOID_77
+gastroparesis	http://purl.obolibrary.org/obo/DOID_11914
+gestational diabetes	http://purl.obolibrary.org/obo/DOID_11714
+gingivitis	http://purl.obolibrary.org/obo/DOID_3087
+glaucoma	http://purl.obolibrary.org/obo/DOID_1686
+glomerulonephritis	http://purl.obolibrary.org/obo/DOID_2921
+glomerulosclerosis	http://purl.obolibrary.org/obo/DOID_0050851
+glucocorticoid deficiency 1	http://purl.obolibrary.org/obo/DOID_0080621
+glucose intolerance	http://purl.obolibrary.org/obo/DOID_10603
+glucose metabolism disease	http://purl.obolibrary.org/obo/DOID_4194
+glycogen storage disease I	http://purl.obolibrary.org/obo/DOID_0081329
+glycogen storage disease V	http://purl.obolibrary.org/obo/DOID_2746
+goiter	http://purl.obolibrary.org/obo/DOID_12176
+gonadal disease	http://purl.obolibrary.org/obo/DOID_2277
+gout	http://purl.obolibrary.org/obo/DOID_13189
+graft-versus-host disease	http://purl.obolibrary.org/obo/DOID_0081267
+gynecomastia	http://purl.obolibrary.org/obo/DOID_12698
+heart conduction disease	http://purl.obolibrary.org/obo/DOID_10273
+heart disease	http://purl.obolibrary.org/obo/DOID_114
+hemochromatosis	http://purl.obolibrary.org/obo/DOID_2352
+hemoglobinopathy	http://purl.obolibrary.org/obo/DOID_2860
+hemolytic-uremic syndrome	http://purl.obolibrary.org/obo/DOID_12554
+hemorrhagic disease	http://purl.obolibrary.org/obo/DOID_2213
+hepatic encephalopathy	http://purl.obolibrary.org/obo/DOID_13413
+hepatitis	http://purl.obolibrary.org/obo/DOID_2237
+hepatitis B	http://purl.obolibrary.org/obo/DOID_2043
+hepatitis C	http://purl.obolibrary.org/obo/DOID_1883
+hepatitis E	http://purl.obolibrary.org/obo/DOID_4411
+hepatobiliary disease	http://purl.obolibrary.org/obo/DOID_3118
+hepatorenal syndrome	http://purl.obolibrary.org/obo/DOID_11823
+hereditary arterial and articular multiple calcification syndrome	http://purl.obolibrary.org/obo/DOID_0111582
+hiatus hernia	http://purl.obolibrary.org/obo/DOID_12642
+hidradenitis suppurativa	http://purl.obolibrary.org/obo/DOID_2280
+human immunodeficiency virus infectious disease	http://purl.obolibrary.org/obo/DOID_526
+hyperandrogenism	http://purl.obolibrary.org/obo/DOID_11613
+hypereosinophilic syndrome	http://purl.obolibrary.org/obo/DOID_999
+hyperferritinemia-cataract syndrome	http://purl.obolibrary.org/obo/DOID_0111256
+hyperglycemia	http://purl.obolibrary.org/obo/DOID_4195
+hyperhomocysteinemia	http://purl.obolibrary.org/obo/DOID_9279
+hyperinsulinemic hypoglycemia	http://purl.obolibrary.org/obo/DOID_13317
+hyperinsulinism	http://purl.obolibrary.org/obo/DOID_2018
+hyperlipoproteinemia type III	http://purl.obolibrary.org/obo/DOID_3145
+hyperlipoproteinemia type IV	http://purl.obolibrary.org/obo/DOID_1172
+hyperparathyroidism	http://purl.obolibrary.org/obo/DOID_13543
+hyperprolactinemia	http://purl.obolibrary.org/obo/DOID_12700
+hypertension	http://purl.obolibrary.org/obo/DOID_10763
+hypertensive encephalopathy	http://purl.obolibrary.org/obo/DOID_9427
+hypertensive heart disease	http://purl.obolibrary.org/obo/DOID_11516
+hyperthyroidism	http://purl.obolibrary.org/obo/DOID_7998
+hypertrichosis	http://purl.obolibrary.org/obo/DOID_420
+hypertrophic cardiomyopathy	http://purl.obolibrary.org/obo/DOID_11984
+hyperuricemia	http://purl.obolibrary.org/obo/DOID_1920
+hypochromic anemia	http://purl.obolibrary.org/obo/DOID_11759
+hypoglycemia	http://purl.obolibrary.org/obo/DOID_9993
+hypogonadism	http://purl.obolibrary.org/obo/DOID_1924
+hypogonadotropic hypogonadism	http://purl.obolibrary.org/obo/DOID_0090070
+hypoinsulinemic hypoglycemia with hemihypertrophy	http://purl.obolibrary.org/obo/DOID_0112263
+hypokalemic periodic paralysis	http://purl.obolibrary.org/obo/DOID_14452
+hypophosphatemia	http://purl.obolibrary.org/obo/DOID_0050336
+hypopituitarism	http://purl.obolibrary.org/obo/DOID_9406
+hypothalamic disease	http://purl.obolibrary.org/obo/DOID_1931
+hypothyroidism	http://purl.obolibrary.org/obo/DOID_1459
+idiopathic peripheral autonomic neuropathy	http://purl.obolibrary.org/obo/DOID_11488
+immune system disease	http://purl.obolibrary.org/obo/DOID_2914
+inclusion body myositis	http://purl.obolibrary.org/obo/DOID_3429
+infertility	http://purl.obolibrary.org/obo/DOID_5223
+influenza	http://purl.obolibrary.org/obo/DOID_8469
+intermittent claudication	http://purl.obolibrary.org/obo/DOID_3669
+intestinal disease	http://purl.obolibrary.org/obo/DOID_5295
+intracranial arteriosclerosis	http://purl.obolibrary.org/obo/DOID_13097
+intrinsic asthma	http://purl.obolibrary.org/obo/DOID_9360
+iron deficiency anemia	http://purl.obolibrary.org/obo/DOID_11758
+iron metabolism disease	http://purl.obolibrary.org/obo/DOID_2351
+irritable bowel syndrome	http://purl.obolibrary.org/obo/DOID_9778
+ischemic neuropathy	http://purl.obolibrary.org/obo/DOID_1195
+isolated growth hormone deficiency	http://purl.obolibrary.org/obo/DOID_0060870
+keratosis pilaris atrophicans	http://purl.obolibrary.org/obo/DOID_0080751
+kidney disease	http://purl.obolibrary.org/obo/DOID_557
+kidney hypertrophy	http://purl.obolibrary.org/obo/DOID_9622
+kwashiorkor	http://purl.obolibrary.org/obo/DOID_13579
+lactose intolerance	http://purl.obolibrary.org/obo/DOID_10604
+latent autoimmune diabetes in adults	http://purl.obolibrary.org/obo/DOID_0080846
+left ventricular noncompaction	http://purl.obolibrary.org/obo/DOID_0060480
+leg dermatosis	http://purl.obolibrary.org/obo/DOID_3142
+lichen planus	http://purl.obolibrary.org/obo/DOID_9201
+lipid metabolism disorder	http://purl.obolibrary.org/obo/DOID_3146
+lipodystrophy	http://purl.obolibrary.org/obo/DOID_811
+liver cirrhosis	http://purl.obolibrary.org/obo/DOID_5082
+liver disease	http://purl.obolibrary.org/obo/DOID_409
+low tension glaucoma	http://purl.obolibrary.org/obo/DOID_13544
+lung disease	http://purl.obolibrary.org/obo/DOID_850
+lupus erythematosus	http://purl.obolibrary.org/obo/DOID_8857
+lupus nephritis	http://purl.obolibrary.org/obo/DOID_0080162
+macular degeneration	http://purl.obolibrary.org/obo/DOID_4448
+malaria	http://purl.obolibrary.org/obo/DOID_12365
+male infertility	http://purl.obolibrary.org/obo/DOID_12336
+male reproductive system disease	http://purl.obolibrary.org/obo/DOID_48
+malignant hypertension	http://purl.obolibrary.org/obo/DOID_10824
+marasmus	http://purl.obolibrary.org/obo/DOID_12328
+maturity-onset diabetes of the young	http://purl.obolibrary.org/obo/DOID_0050524
+maturity-onset diabetes of the young type 3	http://purl.obolibrary.org/obo/DOID_0111102
+methemoglobinemia	http://purl.obolibrary.org/obo/DOID_10783
+migraine	http://purl.obolibrary.org/obo/DOID_6364
+migraine with aura	http://purl.obolibrary.org/obo/DOID_10024
+mite infestation	http://purl.obolibrary.org/obo/DOID_7894
+mitochondrial myopathy	http://purl.obolibrary.org/obo/DOID_699
+morbid obesity	http://purl.obolibrary.org/obo/DOID_11981
+motor neuron disease	http://purl.obolibrary.org/obo/DOID_231
+mouth disease	http://purl.obolibrary.org/obo/DOID_403
+mucormycosis	http://purl.obolibrary.org/obo/DOID_8485
+multinodular goiter	http://purl.obolibrary.org/obo/DOID_0050489
+multiple sclerosis	http://purl.obolibrary.org/obo/DOID_2377
+muscle tissue disease	http://purl.obolibrary.org/obo/DOID_66
+muscular dystrophy	http://purl.obolibrary.org/obo/DOID_9884
+musculoskeletal system disease	http://purl.obolibrary.org/obo/DOID_17
+myocardial infarction	http://purl.obolibrary.org/obo/DOID_5844
+myocarditis	http://purl.obolibrary.org/obo/DOID_820
+myopathy	http://purl.obolibrary.org/obo/DOID_423
+myopia	http://purl.obolibrary.org/obo/DOID_11830
+myositis	http://purl.obolibrary.org/obo/DOID_633
+myotonic disease	http://purl.obolibrary.org/obo/DOID_450
+myotonic dystrophy type 1	http://purl.obolibrary.org/obo/DOID_11722
+neonatal anemia	http://purl.obolibrary.org/obo/DOID_11244
+nephritis	http://purl.obolibrary.org/obo/DOID_10952
+nephrolithiasis	http://purl.obolibrary.org/obo/DOID_585
+nephrosclerosis	http://purl.obolibrary.org/obo/DOID_11664
+neurodegenerative disease	http://purl.obolibrary.org/obo/DOID_1289
+neuropathy	http://purl.obolibrary.org/obo/DOID_870
+nodular goiter	http://purl.obolibrary.org/obo/DOID_13197
+non-alcoholic fatty liver disease	http://purl.obolibrary.org/obo/DOID_0080208
+non-alcoholic steatohepatitis	http://purl.obolibrary.org/obo/DOID_0080547
+nuclear senile cataract	http://purl.obolibrary.org/obo/DOID_13963
+nutrition disease	http://purl.obolibrary.org/obo/DOID_374
+nutritional deficiency disease	http://purl.obolibrary.org/obo/DOID_5113
+obesity	http://purl.obolibrary.org/obo/DOID_9970
+obsolete Cytomegalovirus infectious disease	http://purl.obolibrary.org/obo/DOID_11259
+obsolete HIV-associated lipodystrophy syndrome	http://purl.obolibrary.org/obo/DOID_810
+obsolete Helicobacter pylori infectious disease	http://purl.obolibrary.org/obo/DOID_3686
+obsolete Rotator cuff shoulder syndrome and allied disorder	http://purl.obolibrary.org/obo/DOID_12702
+obsolete abnormal glucose tolerance in mother complicating pregnancy childbirth and/or puerperium	http://purl.obolibrary.org/obo/DOID_2524
+obsolete abortion complicated by metabolic disorder	http://purl.obolibrary.org/obo/DOID_1873
+obsolete adenovirus infectious disease	http://purl.obolibrary.org/obo/DOID_0050298
+obsolete amino acid transport disease	http://purl.obolibrary.org/obo/DOID_1058
+obsolete carbohydrate metabolism disease	http://purl.obolibrary.org/obo/DOID_0050013
+obsolete child nutrition disorder	http://purl.obolibrary.org/obo/DOID_4499
+obsolete chronic rejection of renal transplant	http://purl.obolibrary.org/obo/DOID_2985
+obsolete commensal Clostridium infectious disease	http://purl.obolibrary.org/obo/DOID_3584
+obsolete congenital adrenal hyperplasia	http://purl.obolibrary.org/obo/DOID_12255
+obsolete degenerative disorder of eyelid and periocular area	http://purl.obolibrary.org/obo/DOID_10121
+obsolete diabetes mellitus insulin dependent type not stated as uncontrolled with renal manifestations	http://purl.obolibrary.org/obo/DOID_2369
+obsolete diabetic nephropathy	http://purl.obolibrary.org/obo/DOID_2370
+obsolete diabetic oculopathy	http://purl.obolibrary.org/obo/DOID_2180
+obsolete diabetic peripheral angiopathy	http://purl.obolibrary.org/obo/DOID_10182
+obsolete eczematous skin disease	http://purl.obolibrary.org/obo/DOID_3143
+obsolete familial hypertriglyceridemia	http://purl.obolibrary.org/obo/DOID_0050527
+obsolete hearing disease	http://purl.obolibrary.org/obo/DOID_12226
+obsolete hyperostosis frontalis interna	http://purl.obolibrary.org/obo/DOID_9925
+obsolete hypersecretion of testicular hormones	http://purl.obolibrary.org/obo/DOID_11770
+obsolete impaired renal function disease	http://purl.obolibrary.org/obo/DOID_11705
+obsolete insulin dependent type diabetes mellitus uncontrolled with ketoacidosis	http://purl.obolibrary.org/obo/DOID_10626
+obsolete intervertebral disc disorder	http://purl.obolibrary.org/obo/DOID_9321
+obsolete iron overload	http://purl.obolibrary.org/obo/DOID_2350
+obsolete leukoencephalopathy	http://purl.obolibrary.org/obo/DOID_644
+obsolete magnesium deficiency	http://purl.obolibrary.org/obo/DOID_13581
+obsolete malnutrition	http://purl.obolibrary.org/obo/DOID_8452
+obsolete menopausal and postmenopausal disorder	http://purl.obolibrary.org/obo/DOID_10501
+obsolete menopausal syndrome	http://purl.obolibrary.org/obo/DOID_6675
+obsolete myopathy of critical illness	http://purl.obolibrary.org/obo/DOID_10569
+obsolete non-toxic nodular goiter	http://purl.obolibrary.org/obo/DOID_13194
+obsolete occupational disease	http://purl.obolibrary.org/obo/DOID_3231
+obsolete onychomycosis	http://purl.obolibrary.org/obo/DOID_0050275
+obsolete penile vascular disorder	http://purl.obolibrary.org/obo/DOID_9287
+obsolete puerperal disease	http://purl.obolibrary.org/obo/DOID_3726
+obsolete renal aminoaciduria	http://purl.obolibrary.org/obo/DOID_1061
+obsolete rheumatism	http://purl.obolibrary.org/obo/DOID_4256
+obsolete sickle cell trait	http://purl.obolibrary.org/obo/DOID_13023
+obsolete spontaneous abortion	http://purl.obolibrary.org/obo/DOID_722
+obsolete thyroid nodule	http://purl.obolibrary.org/obo/DOID_14313
+obsolete wasting syndrome	http://purl.obolibrary.org/obo/DOID_1314
+obstructive sleep apnea	http://purl.obolibrary.org/obo/DOID_0050848
+ocular hypertension	http://purl.obolibrary.org/obo/DOID_9282
+oculopharyngeal muscular dystrophy	http://purl.obolibrary.org/obo/DOID_11719
+optic atrophy	http://purl.obolibrary.org/obo/DOID_5723
+optic nerve disease	http://purl.obolibrary.org/obo/DOID_1891
+oral submucous fibrosis	http://purl.obolibrary.org/obo/DOID_5773
+osteoarthritis	http://purl.obolibrary.org/obo/DOID_8398
+osteochondritis dissecans	http://purl.obolibrary.org/obo/DOID_84
+osteochondrosis	http://purl.obolibrary.org/obo/DOID_8125
+osteomalacia	http://purl.obolibrary.org/obo/DOID_10573
+osteoporosis	http://purl.obolibrary.org/obo/DOID_11476
+osteosclerosis	http://purl.obolibrary.org/obo/DOID_4254
+ovarian cyst	http://purl.obolibrary.org/obo/DOID_5119
+ovarian disease	http://purl.obolibrary.org/obo/DOID_1100
+ovarian dysfunction	http://purl.obolibrary.org/obo/DOID_1414
+ovarian stromal hyperthecosis	http://purl.obolibrary.org/obo/DOID_7347
+overactive bladder syndrome	http://purl.obolibrary.org/obo/DOID_0070355
+overnutrition	http://purl.obolibrary.org/obo/DOID_654
+pancreas disease	http://purl.obolibrary.org/obo/DOID_26
+pancreatitis	http://purl.obolibrary.org/obo/DOID_4989
+panhypopituitarism	http://purl.obolibrary.org/obo/DOID_9410
+panniculitis	http://purl.obolibrary.org/obo/DOID_1526
+parasitic helminthiasis infectious disease	http://purl.obolibrary.org/obo/DOID_883
+partial lipodystrophy	http://purl.obolibrary.org/obo/DOID_0080299
+pellagra	http://purl.obolibrary.org/obo/DOID_8457
+pelvic muscle wasting	http://purl.obolibrary.org/obo/DOID_11629
+pemphigus	http://purl.obolibrary.org/obo/DOID_9182
+peptic ulcer disease	http://purl.obolibrary.org/obo/DOID_750
+periapical periodontitis	http://purl.obolibrary.org/obo/DOID_823
+pericardium disease	http://purl.obolibrary.org/obo/DOID_0050829
+periodontal disease	http://purl.obolibrary.org/obo/DOID_3388
+periodontitis	http://purl.obolibrary.org/obo/DOID_824
+peripheral nervous system disease	http://purl.obolibrary.org/obo/DOID_574
+peripheral vascular disease	http://purl.obolibrary.org/obo/DOID_341
+phenylketonuria	http://purl.obolibrary.org/obo/DOID_9281
+pituitary gland disease	http://purl.obolibrary.org/obo/DOID_53
+pituitary-dependent Cushing's disease	http://purl.obolibrary.org/obo/DOID_3946
+placental insufficiency	http://purl.obolibrary.org/obo/DOID_3891
+plasma protein metabolism disease	http://purl.obolibrary.org/obo/DOID_2345
+pneumonia	http://purl.obolibrary.org/obo/DOID_552
+polycystic kidney disease	http://purl.obolibrary.org/obo/DOID_0080322
+polycystic ovary syndrome	http://purl.obolibrary.org/obo/DOID_11612
+polycythemia	http://purl.obolibrary.org/obo/DOID_8432
+polyneuropathy	http://purl.obolibrary.org/obo/DOID_1389
+portal hypertension	http://purl.obolibrary.org/obo/DOID_10762
+portal vein thrombosis	http://purl.obolibrary.org/obo/DOID_11695
+post-surgical hypoinsulinemia	http://purl.obolibrary.org/obo/DOID_2181
+posterior polar cataract	http://purl.obolibrary.org/obo/DOID_0050537
+prediabetes syndrome	http://purl.obolibrary.org/obo/DOID_11716
+premature menopause	http://purl.obolibrary.org/obo/DOID_10787
+premenstrual tension	http://purl.obolibrary.org/obo/DOID_727
+primary biliary cholangitis	http://purl.obolibrary.org/obo/DOID_12236
+primary hyperaldosteronism	http://purl.obolibrary.org/obo/DOID_446
+primary hyperoxaluria	http://purl.obolibrary.org/obo/DOID_2977
+primary hyperparathyroidism	http://purl.obolibrary.org/obo/DOID_11202
+primary hypoalphalipoproteinemia 1	http://purl.obolibrary.org/obo/DOID_0080957
+primary hypomagnesemia	http://purl.obolibrary.org/obo/DOID_0060879
+primary ovarian insufficiency 17	http://purl.obolibrary.org/obo/DOID_0080874
+primary sclerosing cholangitis	http://purl.obolibrary.org/obo/DOID_0060643
+proliferative diabetic retinopathy	http://purl.obolibrary.org/obo/DOID_13207
+prostate disease	http://purl.obolibrary.org/obo/DOID_47
+prostatic adenoma	http://purl.obolibrary.org/obo/DOID_2883
+prostatic hypertrophy	http://purl.obolibrary.org/obo/DOID_11132
+prostatitis	http://purl.obolibrary.org/obo/DOID_14654
+prothrombin deficiency	http://purl.obolibrary.org/obo/DOID_2235
+psoriasis	http://purl.obolibrary.org/obo/DOID_8893
+psoriatic arthritis	http://purl.obolibrary.org/obo/DOID_9008
+pterygium	http://purl.obolibrary.org/obo/DOID_0002116
+ptosis	http://purl.obolibrary.org/obo/DOID_0060260
+pulmonary embolism	http://purl.obolibrary.org/obo/DOID_9477
+pulmonary emphysema	http://purl.obolibrary.org/obo/DOID_9675
+pulmonary eosinophilia	http://purl.obolibrary.org/obo/DOID_9498
+pulmonary fibrosis	http://purl.obolibrary.org/obo/DOID_3770
+pulmonary hypertension	http://purl.obolibrary.org/obo/DOID_6432
+pulmonary tuberculosis	http://purl.obolibrary.org/obo/DOID_2957
+pulmonary venoocclusive disease	http://purl.obolibrary.org/obo/DOID_5453
+pustular psoriasis 14	http://purl.obolibrary.org/obo/DOID_0080474
+pyrimidine metabolic disorder	http://purl.obolibrary.org/obo/DOID_0050832
+recurrent hypersomnia	http://purl.obolibrary.org/obo/DOID_8619
+renal artery obstruction	http://purl.obolibrary.org/obo/DOID_2972
+renal fibrosis	http://purl.obolibrary.org/obo/DOID_0050855
+renal glycosuria	http://purl.obolibrary.org/obo/DOID_9432
+renal hypertension	http://purl.obolibrary.org/obo/DOID_1073
+renal osteodystrophy	http://purl.obolibrary.org/obo/DOID_13068
+renovascular hypertension	http://purl.obolibrary.org/obo/DOID_1591
+reproductive system disease	http://purl.obolibrary.org/obo/DOID_15
+respiratory failure	http://purl.obolibrary.org/obo/DOID_11162
+respiratory system disease	http://purl.obolibrary.org/obo/DOID_1579
+retinal artery occlusion	http://purl.obolibrary.org/obo/DOID_8483
+retinal disease	http://purl.obolibrary.org/obo/DOID_5679
+retinal ischemia	http://purl.obolibrary.org/obo/DOID_12510
+rheumatic disease	http://purl.obolibrary.org/obo/DOID_1575
+rheumatic fever	http://purl.obolibrary.org/obo/DOID_1586
+rheumatoid arthritis	http://purl.obolibrary.org/obo/DOID_7148
+rosacea	http://purl.obolibrary.org/obo/DOID_8881
+sarcoidosis	http://purl.obolibrary.org/obo/DOID_11335
+schistosomiasis	http://purl.obolibrary.org/obo/DOID_1395
+scleroderma	http://purl.obolibrary.org/obo/DOID_419
+seborrheic dermatitis	http://purl.obolibrary.org/obo/DOID_8741
+secondary hypertension	http://purl.obolibrary.org/obo/DOID_11130
+sensorineural hearing loss	http://purl.obolibrary.org/obo/DOID_10003
+sensory peripheral neuropathy	http://purl.obolibrary.org/obo/DOID_2491
+sexual dysfunction	http://purl.obolibrary.org/obo/DOID_1876
+sialadenitis	http://purl.obolibrary.org/obo/DOID_10303
+sickle cell anemia	http://purl.obolibrary.org/obo/DOID_10923
+sideroblastic anemia	http://purl.obolibrary.org/obo/DOID_8955
+silent myocardial infarction	http://purl.obolibrary.org/obo/DOID_5854
+sinusitis	http://purl.obolibrary.org/obo/DOID_0050127
+skin disease	http://purl.obolibrary.org/obo/DOID_37
+sleep apnea	http://purl.obolibrary.org/obo/DOID_0050847
+stomach disease	http://purl.obolibrary.org/obo/DOID_76
+subacute lymphocytic thyroiditis	http://purl.obolibrary.org/obo/DOID_7187
+subendocardial myocardial infarction	http://purl.obolibrary.org/obo/DOID_5849
+superior mesenteric artery syndrome	http://purl.obolibrary.org/obo/DOID_3557
+synovitis	http://purl.obolibrary.org/obo/DOID_2703
+systolic heart failure	http://purl.obolibrary.org/obo/DOID_9651
+tauopathy	http://purl.obolibrary.org/obo/DOID_680
+tendinitis	http://purl.obolibrary.org/obo/DOID_971
+testicular disease	http://purl.obolibrary.org/obo/DOID_2519
+thrombocytopenia	http://purl.obolibrary.org/obo/DOID_1588
+thrombophilia	http://purl.obolibrary.org/obo/DOID_2452
+thrombosis	http://purl.obolibrary.org/obo/DOID_0060903
+thymus gland disease	http://purl.obolibrary.org/obo/DOID_533
+thyroid gland disease	http://purl.obolibrary.org/obo/DOID_50
+thyrotoxicosis	http://purl.obolibrary.org/obo/DOID_7997
+transient neonatal diabetes mellitus	http://purl.obolibrary.org/obo/DOID_0060334
+tuberculosis	http://purl.obolibrary.org/obo/DOID_399
+type 1 diabetes mellitus	http://purl.obolibrary.org/obo/DOID_9744
+type 2 diabetes mellitus	http://purl.obolibrary.org/obo/DOID_9352
+ulcerative colitis	http://purl.obolibrary.org/obo/DOID_8577
+upper respiratory tract disease	http://purl.obolibrary.org/obo/DOID_974
+uremia	http://purl.obolibrary.org/obo/DOID_4676
+uric acid urolithiasis	http://purl.obolibrary.org/obo/DOID_0080654
+urinary system disease	http://purl.obolibrary.org/obo/DOID_18
+urolithiasis	http://purl.obolibrary.org/obo/DOID_0080653
+urticaria	http://purl.obolibrary.org/obo/DOID_1555
+uterine disease	http://purl.obolibrary.org/obo/DOID_345
+varicocele	http://purl.obolibrary.org/obo/DOID_12337
+varicose veins	http://purl.obolibrary.org/obo/DOID_799
+vascular dementia	http://purl.obolibrary.org/obo/DOID_8725
+vascular disease	http://purl.obolibrary.org/obo/DOID_178
+vasculitis	http://purl.obolibrary.org/obo/DOID_865
+vasculogenic impotence	http://purl.obolibrary.org/obo/DOID_4762
+venous insufficiency	http://purl.obolibrary.org/obo/DOID_10128
+venous tributary occlusion of retina	http://purl.obolibrary.org/obo/DOID_13514
+vertebrobasilar insufficiency	http://purl.obolibrary.org/obo/DOID_13003
+vitamin B12 deficiency	http://purl.obolibrary.org/obo/DOID_0050731
+vitamin metabolic disorder	http://purl.obolibrary.org/obo/DOID_0050718
+vitiligo	http://purl.obolibrary.org/obo/DOID_12306
