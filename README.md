@@ -1,20 +1,43 @@
-# Introduction 
-TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
+# Identification of Insulin Resistance-Related Genes with Biomedical Knowledge Graphs Topology and Embeddings
 
-# Getting Started
-TODO: Guide users through getting your code up and running on their own system. In this section you can talk about:
-1.	Installation process
-2.	Software dependencies
-3.	Latest releases
-4.	API references
+## Introduction
 
-# Build and Test
-TODO: Describe and show how to build your code and run the tests. 
+This repository contains code for identifying insulin resistance-related genes using topological feature engineering, link prediction, positive unlabelled learning (PUL) and outlier detection algorithms. We used OpenBioLink and Hetionet biomedical knowledge graphs (biomedKGs) to predict IR-related genes and evaluated how model performance was affected by the size of the training set and by enriching the biomedKG with IR information. We also assessed the biological relation of the predictions to IR-related processes using the DepMap and Multiscale Interactome biomedKGs datasets and bioinformatic pathway functional annotations.
 
-# Contribute
-TODO: Explain how other users and developers can contribute to make your code better. 
+The link to our paper can be found here: www.???
 
-If you want to learn more about creating good readme files then refer the following [guidelines](https://docs.microsoft.com/en-us/azure/devops/repos/git/create-a-readme?view=azure-devops). You can also seek inspiration from the below readme files:
-- [ASP.NET Core](https://github.com/aspnet/Home)
-- [Visual Studio Code](https://github.com/Microsoft/vscode)
-- [Chakra Core](https://github.com/Microsoft/ChakraCore)
+## Installation
+
+To install this project, please follow these steps:
+
+1. Clone this repository to your local machine
+2. Install the required dependencies by running `pip install -r requirements.txt`
+3.
+
+## Usage
+
+To use this project, is broken down into the following parts
+
+* Link prediction:
+* Topological Analysis: 
+* Positive unlabelled:
+* Visualisation: Biological Characterization
+* data:
+
+
+
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Authors
+
+- Tankred Ott
+- Marc Boubnovski Martell
+- Viktor Sandberg
+- Ramneek Gupta
+- Marie Lisandra Zepeda Mendoza
+
+## Acknowledgments
+
+We would like to thank the creators of the OpenBioLink and Hetionet biomedKGs datasets for making their data publicly available. We would also like to thank the contributors to the DepMap and Multiscale Interactome biomedKGs datasets and bioinformatic pathway functional annotations for their work.
