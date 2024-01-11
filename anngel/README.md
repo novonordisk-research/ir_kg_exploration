@@ -2,12 +2,14 @@
 
 ## Table of Contents
 
-1. [Requirements](#requirements)
-2. [Installation](#installation)
-3. [Examples](#examples)
-   1. [Export nodes and edges from Neo4j database](#export-nodes-and-edges-from-neo4j-database)
-   2. [Connect to Amazon S3 bucket](#connect-to-amazon-s3-bucket)
-   3. [Use an included Dataset](#use-an-included-dataset)
+- [Accessible Novo Nordisk Graph Embedding Library (aNNGEL)](#accessible-novo-nordisk-graph-embedding-library-anngel)
+  - [Table of Contents](#table-of-contents)
+  - [Requirements:](#requirements)
+  - [Installation](#installation)
+  - [Examples](#examples)
+    - [Export nodes and edges from Neo4j database](#export-nodes-and-edges-from-neo4j-database)
+    - [Connect to Amazon S3 bucket](#connect-to-amazon-s3-bucket)
+    - [Use an included Dataset](#use-an-included-dataset)
 
 ## Requirements:
 
@@ -17,8 +19,6 @@
 ## Installation
 
 ```bash
-git clone git@ssh.dev.azure.com:v3/VMNZ/uniA_v3/ANNGEL%20(Accessible%20NN%20KG%20Embedding%20Library)
-cd "ANNGEL (Accessible NN KG Embedding Library)"
 poetry install
 ```
 
@@ -29,8 +29,8 @@ poetry install
 ```Python
 from anngel.dblib.neo4jlib import Neo4JDatabase
 
-DB_URI="neo4j://10.108.4.13:7687"
-DB_NAME="stage"
+DB_URI="neo4j://ENTER IP ADDRESS:7687"
+DB_NAME="ENTER DB NAME"
 USER_NAME="ENTER USER NAME"
 
 db = Neo4JDatabase(
@@ -54,8 +54,8 @@ db.export_edges(
 ```Python
 from anngel.datalib.s3datastore import S3DataStore
 
-BUCKET_NAME = "nnedl-core-prd-eu-central-1-curated"
-PREFIX = "compbiosandbox/Projects/NNRCO_KG/Sprint_3_IR_embeddings/MY_PREFIX/"
+BUCKET_NAME = "ENTER S3 BUCKET NAME"
+PREFIX = "ENTER S3 PREFIX"
 
 # AWS credential will be collected from ~/.credentials
 # if not passed to S3DataStore

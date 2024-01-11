@@ -19,7 +19,7 @@ To install this project, please follow these steps:
 To use this project, is broken down into the following parts
 
 * Link prediction:
-* Topological Analysis: 
+* Topological Analysis:
 * Positive unlabelled:
 * Visualisation: Biological Characterization
 * data:
