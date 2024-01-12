@@ -1,22 +1,9 @@
-from pykeen.hpo import hpo_pipeline
-
-import os
 from pathlib import Path
 import pickle
 import numpy as np
-import torch
-import wordcloud
 
-import pykeen
-from pykeen.datasets import OpenBioLink
 from pykeen.pipeline import pipeline
-from pykeen import predict
-from pykeen.evaluation import RankBasedEvaluator
-
-from pykeen.datasets import get_dataset
 from pykeen.triples import TriplesFactory
-
-from pykeen.evaluation import RankBasedEvaluator
 
 
 # Select dataset name (OpenBioLink, Hetionet) and dataset type (small, large)
