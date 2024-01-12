@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Calculate nodewise topological features
+
 # --- CHANGE THIS 
 ANNGEL_PATH="ENTER PATH TO ANNGEL EXECUTABLE HERE"
 # ---
