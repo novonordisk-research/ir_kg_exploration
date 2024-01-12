@@ -18,11 +18,11 @@ To install this project, please follow these steps:
 
 To use this project, is broken down into the following parts
 
-* Link prediction:
+* Link prediction: Trains the models using link prediction, this can be used then for link prediction task or to extract the embeddings
 * Topological Analysis:
 * Positive unlabelled:
-* Visualisation: Biological Characterization
-* data:
+* Visualisation: Biological characterization and plotting the resuls for our paper
+* data: Inlcudes the list of genes identified as IR genes, the relevant disease related to IR and the edited version of OpenBioLink and Hetionet
 
 
 
