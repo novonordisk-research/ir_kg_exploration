@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# Calculate parwise topological features
+
 # --- CHANGE THIS 
 ANNGEL_PATH="PATH TO THE ANNGEL EXECUTABLE"
 N_CORES=10
