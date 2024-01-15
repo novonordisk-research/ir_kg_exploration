@@ -4,7 +4,7 @@
 
 This repository contains code for identifying insulin resistance-related genes using topological feature engineering, link prediction, positive unlabelled learning (PUL) and outlier detection algorithms. We used OpenBioLink and Hetionet biomedical knowledge graphs (biomedKGs) to predict IR-related genes and evaluated how model performance was affected by the size of the training set and by enriching the biomedKG with IR information. We also assessed the biological relation of the predictions to IR-related processes using the DepMap and Multiscale Interactome biomedKGs datasets and bioinformatic pathway functional annotations.
 
-The paper can be found here: [https://doi.org/10.1073/pnas.1914950117](https://doi.org/10.1073/pnas.1914950117)
+The paper can be found here: 
 
 ## Installation
 
@@ -23,7 +23,7 @@ To install this project, please follow these steps:
 To use this project, is broken down into the following parts
 
 * [Link prediction](./link_prediction/): Trains the models using link prediction, this can be used then for link prediction task or to extract the embeddings
-* [Topological Analysis](./topology_analysis/): Derive the topological feature from the KG using the paper from www.
+* [Topological Analysis](./topology_analysis/): Derive the topological feature from the KG using the paper from [https://doi.org/10.1073/pnas.1914950117](https://doi.org/10.1073/pnas.1914950117
 * [Positive unlabelled](./positive_unlabelled/): Uses the generated embeddings to perform positive unlabelled learning, a semi-supervised learning technique where only a subset of the data is labeled.
 * [Visualisation](./visualisation/): Biological characterization and plotting the resuls for our paper.
 * [Data](./data/): Inlcudes the list of genes identified as IR genes, the relevant disease related to IR and the edited version of OpenBioLink and Hetionet.
