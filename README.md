@@ -12,18 +12,21 @@ To install this project, please follow these steps:
 
 1. Clone this repository to your local machine
 2. Install the required dependencies by running `pip install -r requirements.txt`
-3.
+3. Choose one of the tracks: link predicion or Toplogy to generate train models and generate embeddings
+4. Use the generated ebeddings for the positive unlabelled track
+5. Visualisations can be produced by using the predicted genes and the embeddings for teh models
+
 
 ## Usage
 
 To use this project, is broken down into the following parts
 
-* Link prediction:
+* Link prediction: Trains the models using link prediction, this can be used then for link prediction task or to extract the embeddings
 * Topological Analysis:
 * Positive unlabelled:
-* Visualisation: Biological Characterization
-* data:
-
+* Visualisation: Biological characterization and plotting the resuls for our paper
+* Data: Inlcudes the list of genes identified as IR genes, the relevant disease related to IR and the edited version of OpenBioLink and Hetionet
+* Prediction: Folder to store the gene prediction for different models
 
 
 ## License
