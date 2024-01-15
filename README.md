@@ -10,11 +10,12 @@ The link to our paper can be found here: www.???
 
 To install this project, please follow these steps:
 
-1. Clone this repository to your local machine
-2. Install the required dependencies by running `pip install -r requirements.txt`
-3. Choose one of the tracks: link predicion or Toplogy to generate train models and generate embeddings
-4. Use the generated ebeddings for the positive unlabelled track
-5. Visualisations can be produced by using the predicted genes and the embeddings for teh models
+
+1. Clone this repository to your local machine.
+2. Install the required dependencies by running pip install -r requirements.txt.
+3. Choose one of the tracks: link prediction or topology to generate trained models and embeddings.
+4. Use the generated embeddings for the positive unlabelled track.
+5. Visualizations can be produced by using the predicted genes and the embeddings for the models1.
 
 
 ## Usage
@@ -22,11 +23,11 @@ To install this project, please follow these steps:
 To use this project, is broken down into the following parts
 
 * Link prediction: Trains the models using link prediction, this can be used then for link prediction task or to extract the embeddings
-* Topological Analysis:
-* Positive unlabelled:
-* Visualisation: Biological characterization and plotting the resuls for our paper
-* Data: Inlcudes the list of genes identified as IR genes, the relevant disease related to IR and the edited version of OpenBioLink and Hetionet
-* Prediction: Folder to store the gene prediction for different models
+* Topological Analysis: Derive the topological feature from the KG using the paper from www.
+* Positive unlabelled: Uses the generated embeddings to perform positive unlabelled learning, a semi-supervised learning technique where only a subset of the data is labeled.
+* Visualisation: Biological characterization and plotting the resuls for our paper.
+* Data: Inlcudes the list of genes identified as IR genes, the relevant disease related to IR and the edited version of OpenBioLink and Hetionet.
+* Prediction: Folder to store the gene prediction for different models.
 
 
 ## License
