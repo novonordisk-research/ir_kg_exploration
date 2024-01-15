@@ -22,12 +22,11 @@ To install this project, please follow these steps:
 
 To use this project, is broken down into the following parts
 
-* Link prediction: Trains the models using link prediction, this can be used then for link prediction task or to extract the embeddings
-* Topological Analysis: Derive the topological feature from the KG using the paper from www.
-* Positive unlabelled: Uses the generated embeddings to perform positive unlabelled learning, a semi-supervised learning technique where only a subset of the data is labeled.
-* Visualisation: Biological characterization and plotting the resuls for our paper.
-* Data: Inlcudes the list of genes identified as IR genes, the relevant disease related to IR and the edited version of OpenBioLink and Hetionet.
-* Prediction: Folder to store the gene prediction for different models.
+* [Link prediction](./link_prediction/): Trains the models using link prediction, this can be used then for link prediction task or to extract the embeddings
+* [Topological Analysis](./topology_analysis/): Derive the topological feature from the KG using the paper from www.
+* [Positive unlabelled](./positive_unlabelled/): Uses the generated embeddings to perform positive unlabelled learning, a semi-supervised learning technique where only a subset of the data is labeled.
+* [Visualisation](./visualisation/): Biological characterization and plotting the resuls for our paper.
+* [Data](./data/): Inlcudes the list of genes identified as IR genes, the relevant disease related to IR and the edited version of OpenBioLink and Hetionet.
 
 
 ## License
