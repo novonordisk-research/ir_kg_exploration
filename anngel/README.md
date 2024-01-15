@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Accessible Novo Nordisk Graph Embedding Library (aNNGEL)](#accessible-novo-nordisk-graph-embedding-library-anngel)
+- [Accessible Novo Nordisk Graph Embedding Library (ANNGEL)](#accessible-novo-nordisk-graph-embedding-library-anngel)
   - [Table of Contents](#table-of-contents)
   - [Requirements:](#requirements)
   - [Installation](#installation)
