@@ -3,9 +3,9 @@ from .. import __version__
 
 
 @group(
-    name="aNNGEL",
+    name="ghl",
     help="""
-        aNNGEL is a library and CLI for facilitating (knowledge) graph embedding. 
+        GHL is a library and CLI for facilitating (knowledge) graph embedding. 
     """,
     no_args_is_help=True,
 )

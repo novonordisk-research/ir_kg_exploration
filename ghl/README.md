@@ -1,8 +1,8 @@
-# Accessible Novo Nordisk Graph Embedding Library (ANNGEL)
+# Graph Helper Library (GHL)
 
 ## Table of Contents
 
-- [Accessible Novo Nordisk Graph Embedding Library (ANNGEL)](#accessible-novo-nordisk-graph-embedding-library-anngel)
+- [Graph Helper Library (GHL)](#graph-helper-library-ghl)
   - [Table of Contents](#table-of-contents)
   - [Requirements:](#requirements)
   - [Installation](#installation)
@@ -27,7 +27,7 @@ poetry install
 ### Export nodes and edges from Neo4j database
 
 ```Python
-from anngel.dblib.neo4jlib import Neo4JDatabase
+from ghl.dblib.neo4jlib import Neo4JDatabase
 
 DB_URI="neo4j://ENTER IP ADDRESS:7687"
 DB_NAME="ENTER DB NAME"
@@ -52,7 +52,7 @@ db.export_edges(
 ### Connect to Amazon S3 bucket
 
 ```Python
-from anngel.datalib.s3datastore import S3DataStore
+from ghl.datalib.s3datastore import S3DataStore
 
 BUCKET_NAME = "ENTER S3 BUCKET NAME"
 PREFIX = "ENTER S3 PREFIX"
@@ -84,7 +84,7 @@ existing_file.delete(delete_remote=True)
 ### Use an included Dataset
 
 ```Python
-from anngel.datasets.openbiolink import OpenBioLinkDataset
+from ghl.datasets.openbiolink import OpenBioLinkDataset
 
 # download the dataset to ./data
 ds = OpenBioLinkDataset(data_path='./data')

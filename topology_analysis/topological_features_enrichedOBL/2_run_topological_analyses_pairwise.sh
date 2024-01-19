@@ -3,7 +3,7 @@
 # Calculate parwise topological features
 
 # --- CHANGE THIS 
-ANNGEL_PATH="ENTER PATH TO ANNGEL EXECUTABLE HERE"
+GHL_PATH="ENTER PATH TO GHL EXECUTABLE HERE"
 N_CORES=10
 # ---
 
@@ -21,12 +21,12 @@ do
     suffix="disease"
     pairs_file=`pwd`pairs_obl_enriched_$suffix.pkl
     output_file=$OUTDIR/${algorithm}_${suffix}.csv
-    sbatch calc_pairwise_feature.sh $ANNGEL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES
+    sbatch calc_pairwise_feature.sh $GHL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES
     
     suffix="pathway"
     pairs_file=`pwd`pairs_obl_enriched_$suffix.pkl
     output_file=$OUTDIR/${algorithm}_${suffix}.csv
-    sbatch calc_pairwise_feature.sh $ANNGEL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES
+    sbatch calc_pairwise_feature.sh $GHL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES
 done
 
 algorithm="personalized_pagerank"
@@ -36,9 +36,9 @@ graph_file=`pwd`graph_obl_enriched_undirected.pkl
 suffix="disease"
 pairs_file=`pwd`input_pairs_obl_enriched_$suffix.pkl
 output_file=$OUTDIR/${algorithm}_${suffix}.csv
-sbatch calc_pairwise_feature.sh $ANNGEL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES
+sbatch calc_pairwise_feature.sh $GHL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES
 
 suffix="pathway"
 pairs_file=`pwd`input_pairs_obl_enriched_$suffix.pkl
 output_file=$OUTDIR/${algorithm}_${suffix}.csv
-sbatch calc_pairwise_feature.sh $ANNGEL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES
+sbatch calc_pairwise_feature.sh $GHL_PATH $algorithm $algorithm_kwargs $pairs_file $graph_file $output_file $N_CORES

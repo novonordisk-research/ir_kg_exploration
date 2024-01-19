@@ -18,7 +18,7 @@ conda activate giannt
 
 which python
 
-ANNGEL_PATH=$1
+GHL_PATH=$1
 ALGORITHM=$2
 ALGORITHM_KWARGS=$3
 PAIRS_FILE=$4
@@ -32,7 +32,7 @@ echo $GRAPH_FILE
 echo $OUTPUT_FILE
 echo $N_CORES
 
-$ANNGEL_PATH algorithms calculate_pairwise_feature \
+$GHL_PATH algorithms calculate_pairwise_feature \
     -g $GRAPH_FILE \
     -p $PAIRS_FILE \
     -o $OUTPUT_FILE \

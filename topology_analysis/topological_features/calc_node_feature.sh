@@ -18,7 +18,7 @@ conda activate giannt
 
 which python
 
-ANNGEL_PATH=$1
+GHL_PATH=$1
 ALGORITHM=$2
 ALGORITHM_KWARGS=$3
 INPUT_FILE=$4
@@ -28,7 +28,7 @@ echo $ALGORITHM_KWARGS
 echo $INPUT_FILE
 echo $OUTPUT_FILE
 
-$ANNGEL_PATH algorithms calculate_node_feature \
+$GHL_PATH algorithms calculate_node_feature \
     -i $INPUT_FILE \
     -o $OUTPUT_FILE \
     -a $ALGORITHM \

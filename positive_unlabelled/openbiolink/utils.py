@@ -4,8 +4,8 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 from sklearn.metrics import confusion_matrix as sklearn_confusion_matrix
-from anngel.metrics import calc_order, mr, mrr, amri
-from anngel.metrics import amri_on_proba_df, mrr_on_proba_df, mr_on_proba_df
+from ghl.metrics import calc_order, mr, mrr, amri
+from ghl.metrics import amri_on_proba_df, mrr_on_proba_df, mr_on_proba_df
 from sklearn.model_selection import GridSearchCV
 
 

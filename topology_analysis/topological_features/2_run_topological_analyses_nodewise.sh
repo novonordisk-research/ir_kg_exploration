@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# Calculate nodewise topological features
+
 # --- CHANGE THIS 
-ANNGEL_PATH="PATH TO THE ANNGEL EXECUTABLE"
+GHL_PATH="PATH TO THE GHL EXECUTABLE"
 # ---
 
 
@@ -16,14 +18,14 @@ do
     graph_file=`pwd`graph_obl_undirected.pkl
     output_file=$OUTDIR/$algorithm.csv
 
-    sbatch calc_node_feature.sh $ANNGEL_PATH $algorithm $algorithm_kwargs $graph_file $output_file
+    sbatch calc_node_feature.sh $GHL_PATH $algorithm $algorithm_kwargs $graph_file $output_file
 done
 
 algorithm="eigenvector_centrality"
 algorithm_kwargs="{\"max_iter\":1000,\"tol\":0.0001}"
 graph_file=`pwd`graph_obl_undirected.pkl
 output_file=$OUTDIR/$algorithm.csv
-sbatch calc_node_feature.sh $ANNGEL_PATH $algorithm ${algorithm_kwargs} $graph_file $output_file
+sbatch calc_node_feature.sh $GHL_PATH $algorithm ${algorithm_kwargs} $graph_file $output_file
 
 
 pairs_file=`pwd`pairs_obl.pkl
