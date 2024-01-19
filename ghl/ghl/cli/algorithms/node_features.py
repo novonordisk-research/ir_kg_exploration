@@ -4,7 +4,7 @@ from pathlib import Path
 
 from cloup import command, option, option_group, help_option, Path as PathType, Choice
 
-from anngel.algorithms.topology import (
+from ghl.algorithms.topology import (
     degree_centrality,
     in_degree_centrality,
     out_degree_centrality,

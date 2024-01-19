@@ -3,7 +3,7 @@ import tempfile
 import uuid
 from pathlib import Path
 
-from anngel.datasets.openbiolink import OpenBioLinkDataset
+from ghl.datasets.openbiolink import OpenBioLinkDataset
 
 
 @pytest.fixture(scope="module")

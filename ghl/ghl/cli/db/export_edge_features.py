@@ -58,7 +58,7 @@ def export_edge_features(
     )
 
     if db_type == "neo4j":
-        from anngel.dblib.neo4jlib import Neo4JDatabase
+        from ghl.dblib.neo4jlib import Neo4JDatabase
 
         db = Neo4JDatabase(uri=db_uri, auth=(db_user, db_password), database=db_name)
         db.ensure_connectivity()

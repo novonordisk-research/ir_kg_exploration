@@ -3,7 +3,7 @@ import tempfile
 import uuid
 from pathlib import Path
 
-from anngel.datasets.hetionet import HetionetDataset
+from ghl.datasets.hetionet import HetionetDataset
 
 
 @pytest.fixture(scope="module")

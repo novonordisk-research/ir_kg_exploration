@@ -20,7 +20,7 @@ from typing import TYPE_CHECKING
 import pandas as pd
 from dotenv import dotenv_values
 
-from anngel.dblib import neo4jlib
+from ghl.dblib import neo4jlib
 
 if TYPE_CHECKING:
     from neo4j import Result

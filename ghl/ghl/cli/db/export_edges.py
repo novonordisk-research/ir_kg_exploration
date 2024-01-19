@@ -62,13 +62,14 @@ def export_edges(
     )
 
     if db_type == "neo4j":
-        from anngel.dblib.neo4jlib import Neo4JDatabase
+        from ghl.dblib.neo4jlib import Neo4JDatabase
 
         db = Neo4JDatabase(uri=db_uri, auth=(db_user, db_password), database=db_name)
         db.ensure_connectivity()
 
         if neo4j_properties is not None:
             import json
+
             properties = json.loads(neo4j_properties)
         else:
             properties = None

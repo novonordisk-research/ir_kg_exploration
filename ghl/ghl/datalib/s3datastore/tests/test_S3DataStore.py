@@ -23,7 +23,7 @@ from pathlib import Path
 
 from dotenv import dotenv_values
 
-from anngel.datalib.s3datastore import S3DataStore
+from ghl.datalib.s3datastore import S3DataStore
 
 
 @pytest.fixture(scope="module")

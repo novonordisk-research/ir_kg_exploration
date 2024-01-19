@@ -4,7 +4,7 @@ from pathlib import Path
 
 from cloup import command, option, option_group, help_option, Path as PathType, Choice
 
-from anngel.algorithms.topology import (
+from ghl.algorithms.topology import (
     n_common_neighbors,
     shortest_path_length,
     adamic_adar_index,

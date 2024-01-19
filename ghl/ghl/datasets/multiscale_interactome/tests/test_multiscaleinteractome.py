@@ -3,7 +3,7 @@ import tempfile
 import uuid
 from pathlib import Path
 
-from anngel.datasets.multiscale_interactome import MultiscaleInteractomeDataset
+from ghl.datasets.multiscale_interactome import MultiscaleInteractomeDataset
 
 
 @pytest.fixture(scope="module")

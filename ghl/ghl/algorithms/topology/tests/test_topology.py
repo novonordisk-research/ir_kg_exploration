@@ -1,7 +1,7 @@
 import pytest
 import networkx
 
-from anngel.algorithms.topology import (
+from ghl.algorithms.topology import (
     # pairwise
     n_common_neighbors,
     shortest_path_length,
